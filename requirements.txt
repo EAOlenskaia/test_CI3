@@ -1,6 +1,6 @@
 pytest
 pytest-random-order
-
+allure-pytest
 python-dotenv
 flask
 requests
